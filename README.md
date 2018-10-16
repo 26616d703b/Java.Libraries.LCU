@@ -1,3 +1,3 @@
-# Java.Libraries.LCU
+# LCU
 
-At first when I started this project it was for fun (which explains the lack of documentation and comments), but it turned out that it was really helpful.
+At first I started this project for fun (which explains the lack of documentation and comments), but it turned out to be really helpful in my school projects.
